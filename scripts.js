@@ -5,3 +5,4 @@ const spanHi = document.querySelector("#hi")
 const spanBye = document.querySelector("#bye") 
 
 spanBye.remove()
+div.append(spanBye)
