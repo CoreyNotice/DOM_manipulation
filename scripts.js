@@ -4,5 +4,10 @@ const div = document.querySelector("div")
 const spanHi = document.querySelector("#hi") 
 const spanBye = document.querySelector("#bye") 
 
-spanBye.remove()
-div.append(spanBye)
+console.log(spanHi.getAttribute("id"))
+console.log(spanHi.getAttribute("title"))
+
+// or
+console.log(spanHi.id)
+console.log(spanHi.title)
+
