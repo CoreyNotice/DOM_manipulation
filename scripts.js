@@ -6,10 +6,8 @@ const spanBye = document.querySelector("#bye")
 
 console.log(spanHi.setAttribute("id","yoo baby yo"))
 
-console.log(spanHi.setAttribute("title","yoo baby yo"))
+spanHi.style.backgroundColor='red'
 
-// or
-spanHi.id="yoo babe"
 
 
 
